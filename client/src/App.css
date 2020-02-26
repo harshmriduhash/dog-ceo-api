@@ -1,0 +1,12 @@
+.float-left {
+    float: left;
+}
+.float-right {
+    float: right;
+}
+.display-inline {
+    display: inline-block;
+}
+.fix-image {
+    object-fit: cover
+}
